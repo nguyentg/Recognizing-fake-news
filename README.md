@@ -1,1 +1,1 @@
-"# Recognizing-fake-news" 
+Predict fake news using some machine learning algorithms
